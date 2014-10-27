@@ -1,0 +1,33 @@
+AppData
+Application Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+Dropbox
+Favorites
+Links
+Local Settings
+Music
+My Documents
+NTUSER.DAT
+NTUSER.DAT{847e48d8-d6ef-11e1-af98-d93b961b664e}.TM.blf
+NTUSER.DAT{847e48d8-d6ef-11e1-af98-d93b961b664e}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{847e48d8-d6ef-11e1-af98-d93b961b664e}.TMContainer00000000000000000002.regtrans-ms
+NetHood
+Pictures
+PrintHood
+README.md
+Recent
+Saved Games
+Searches
+SendTo
+Start Menu
+Templates
+Videos
+_viminfo
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+temp
